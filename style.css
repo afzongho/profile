@@ -67,7 +67,7 @@ body {
     text-align: center;
   }
   .img-circle {
-    border-radius: 50%;
+    border-radius: 20%;
   }
   .btn-red {
     background-color: #e16b8e;
@@ -75,10 +75,8 @@ body {
     padding: 15px 20px;
     border-radius: 4px;
   }
-  .btn-red:hover {
-    background-color: black;
-    color: white;
-  }
+  
+
   .list-inline {
     list-style: none;
     padding-left: 0px;
